@@ -37,6 +37,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ```
 # **Uziah's First CS193 Homework**
+
 - *I like that they seem friendly and down-to-earth*
 - *They are willing to spend time to help*
 - *The class is designed to help and sharpen your skills*
