@@ -1,3 +1,10 @@
+```
+# **Uziah's First CS193 Homework**
+
+- *I like that they seem friendly and down-to-earth*
+- *They are willing to spend time to help*
+- *The class is designed to help and sharpen your skills*
+```
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,10 +42,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-```
-# **Uziah's First CS193 Homework**
-
-- *I like that they seem friendly and down-to-earth*
-- *They are willing to spend time to help*
-- *The class is designed to help and sharpen your skills*
-```
