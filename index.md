@@ -36,6 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ```
+Syntax bolded code block
 # Uziah's First CS193 Homework
 - I like that they seem friendly and down-to-earth
 - They are willing to spend time to help
