@@ -1,10 +1,10 @@
-```
+
 # **Uziah's First CS193 Homework**
 
 - *I like that they seem friendly and down-to-earth*
 - *They are willing to spend time to help*
 - *The class is designed to help and sharpen your skills*
-```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
